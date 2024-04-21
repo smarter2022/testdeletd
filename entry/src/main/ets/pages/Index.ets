@@ -6,6 +6,7 @@ struct Index {
   build() {
     Row() {
       Column() {
+        // 测试测试master 更新
         Text(this.message)
           .fontSize(50)
           .fontWeight(FontWeight.Bold)
